@@ -1,2 +1,2 @@
 # hello-world
-A simple repository to get started
+A repository to get started
